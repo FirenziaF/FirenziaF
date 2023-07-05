@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Flo
 - 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on innovoavtive ideas
+- 💞️ I’m looking to collaborate on innovative ideas
 - 📫 reach me on Linkedin
 
 <!---
